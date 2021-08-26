@@ -2,7 +2,7 @@
 
 The objective is to predict the revenue of shops. Each row of our data contains the following information:
 
-shop_ID : Shop's unique identifier.
+\n shop_ID : Shop's unique identifier.
 day_of_the_week : Encoded from 0 to 6.
 date : day, month and year of the data point.
 number of customers : Quantity of customers that showed up that day.
