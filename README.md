@@ -1,4 +1,4 @@
-# Sales Prediction
+# IronKaggle
 
 **The objective is to predict the revenue of shops, using a machine learning model. Each row of our data contains the following information:**
 
